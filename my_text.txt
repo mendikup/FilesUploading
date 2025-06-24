@@ -1,5 +1,6 @@
 helo world
-my_text.txtThat mean it is number 1
+it's the first exercise in I/O
+That mean it is number 1
 Not 2
 Not three
 it is exciting
